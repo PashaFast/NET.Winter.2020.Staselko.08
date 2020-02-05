@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethodDemo", "TemplateMethodDemo\TemplateMethodDemo.csproj", "{A0C6F211-C5A3-4587-9EB1-E43B4E1A45D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethodDemo.Tests", "TemplateMethodDemo.Tests\TemplateMethodDemo.Tests.csproj", "{F5D063BD-9B12-4D7C-AA2B-95D9078C909B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0C6F211-C5A3-4587-9EB1-E43B4E1A45D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C6F211-C5A3-4587-9EB1-E43B4E1A45D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C6F211-C5A3-4587-9EB1-E43B4E1A45D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C6F211-C5A3-4587-9EB1-E43B4E1A45D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5D063BD-9B12-4D7C-AA2B-95D9078C909B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D063BD-9B12-4D7C-AA2B-95D9078C909B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D063BD-9B12-4D7C-AA2B-95D9078C909B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D063BD-9B12-4D7C-AA2B-95D9078C909B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E457B32D-C547-4467-A8BD-0C588EAE1495}
+	EndGlobalSection
+EndGlobal
