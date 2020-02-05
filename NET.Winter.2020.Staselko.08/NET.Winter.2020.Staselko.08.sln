@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethodDemo.Tests", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Filters.Advanced.ToBeBontinue", "Filters.Advanced.ToBeContinue\Filters.Advanced.ToBeBontinue.csproj", "{24153C90-A723-4D9E-AF38-DBFE11874589}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformerToWords", "TransformerToWords\TransformerToWords.csproj", "{26EFCAEA-5BEA-4500-89CC-95CD097E17F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformerToWords.Tests", "TransformerToWords.Tests\TransformerToWords.Tests.csproj", "{5861B91F-8438-4D68-A7F0-1719756BA3CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{24153C90-A723-4D9E-AF38-DBFE11874589}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24153C90-A723-4D9E-AF38-DBFE11874589}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24153C90-A723-4D9E-AF38-DBFE11874589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EFCAEA-5BEA-4500-89CC-95CD097E17F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EFCAEA-5BEA-4500-89CC-95CD097E17F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EFCAEA-5BEA-4500-89CC-95CD097E17F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EFCAEA-5BEA-4500-89CC-95CD097E17F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5861B91F-8438-4D68-A7F0-1719756BA3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5861B91F-8438-4D68-A7F0-1719756BA3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5861B91F-8438-4D68-A7F0-1719756BA3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5861B91F-8438-4D68-A7F0-1719756BA3CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
