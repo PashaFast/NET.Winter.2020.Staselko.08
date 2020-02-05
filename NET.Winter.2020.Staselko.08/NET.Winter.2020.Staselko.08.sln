@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethodDemo", "Templ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethodDemo.Tests", "TemplateMethodDemo.Tests\TemplateMethodDemo.Tests.csproj", "{F5D063BD-9B12-4D7C-AA2B-95D9078C909B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Filters.Advanced.ToBeBontinue", "Filters.Advanced.ToBeContinue\Filters.Advanced.ToBeBontinue.csproj", "{24153C90-A723-4D9E-AF38-DBFE11874589}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F5D063BD-9B12-4D7C-AA2B-95D9078C909B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5D063BD-9B12-4D7C-AA2B-95D9078C909B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5D063BD-9B12-4D7C-AA2B-95D9078C909B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24153C90-A723-4D9E-AF38-DBFE11874589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24153C90-A723-4D9E-AF38-DBFE11874589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24153C90-A723-4D9E-AF38-DBFE11874589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24153C90-A723-4D9E-AF38-DBFE11874589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
